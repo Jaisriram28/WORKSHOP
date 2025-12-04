@@ -1,6 +1,5 @@
 # WORKSHOP: Develop an android application pass the data between the activities using Intent
 
-
 ## AIM:
 To create a two screens , first screen will take name, age, contact number and email id from user. After click on submit button, second screen will open and it should display result using Explicit Intents.
 
@@ -26,14 +25,11 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 
-
-
-
 ## PROGRAM:
 ```
 Program to print the text “ExplicitIntent”.
-Developed by: TAMIZHARASI S
-RegisterNumber: 212222040170
+Developed by: YASHWANTH RAJA DURAI.V
+RegisterNumber: 212222040184
 ```
 
 ### MainActivity.java:
